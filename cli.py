@@ -1,5 +1,12 @@
 #!/usr/bin/env python3
 
+# VERSION  : 6.0
+# SCRIPT   : CC CHECKER
+# WEBSITE  : https://www.darkxcode.pw/
+# DOCS     : https://darkxcode.pw/docs/api#cc-checker
+# AUTHOR   : ZLAXTERT
+# TELEGRAM : https://t.me/zlaxtert
+
 from __future__ import annotations
 
 import configparser
